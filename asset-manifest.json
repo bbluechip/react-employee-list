@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bbluechip/react-employee-list/static/css/main.069b6355.css",
+    "main.js": "/bbluechip/react-employee-list/static/js/main.8c330b32.js",
+    "index.html": "/bbluechip/react-employee-list/index.html",
+    "main.069b6355.css.map": "/bbluechip/react-employee-list/static/css/main.069b6355.css.map",
+    "main.8c330b32.js.map": "/bbluechip/react-employee-list/static/js/main.8c330b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.069b6355.css",
+    "static/js/main.8c330b32.js"
+  ]
+}
