@@ -1,0 +1,11 @@
+.mainDiv {
+    width: 40%;
+    margin: 100px auto;
+    background-color: #f5efe6;
+    border-radius: 20px;
+    .buttonDiv {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px;
+    }
+}

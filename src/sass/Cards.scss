@@ -1,0 +1,21 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    p {
+        vertical-align: center;
+    }
+    img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+    }
+    .right {
+        text-align: left;
+        margin-right: 30px;
+        width: 60%;
+    }
+    .left {
+        margin-left: 30px;
+    }
+}
